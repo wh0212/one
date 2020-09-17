@@ -1,0 +1,58 @@
+{
+  "id": "1624084",
+  "name": "yx",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1577501",
+      "name": "编辑",
+      "font_class": "bianji",
+      "unicode": "e644",
+      "unicode_decimal": 58948
+    },
+    {
+      "icon_id": "8673619",
+      "name": "视频",
+      "font_class": "shipin",
+      "unicode": "e638",
+      "unicode_decimal": 58936
+    },
+    {
+      "icon_id": "10978480",
+      "name": "菱形 (1)",
+      "font_class": "lingxing",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "973032",
+      "name": "微信",
+      "font_class": "weixin",
+      "unicode": "e63c",
+      "unicode_decimal": 58940
+    },
+    {
+      "icon_id": "3349972",
+      "name": "taptap",
+      "font_class": "taptap",
+      "unicode": "e657",
+      "unicode_decimal": 58967
+    },
+    {
+      "icon_id": "7723917",
+      "name": "QQ",
+      "font_class": "QQ",
+      "unicode": "e643",
+      "unicode_decimal": 58947
+    },
+    {
+      "icon_id": "8579187",
+      "name": "微博",
+      "font_class": "weibo",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    }
+  ]
+}

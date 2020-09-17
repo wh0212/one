@@ -1,0 +1,10 @@
+[1213/124127.688:ERROR:settings.cc(320)] Settings magic is not 1129342067
+[1226/110245.610:ERROR:crash_report_database_win.cc(428)] unexpected header
+[1226/111847.366:ERROR:crash_report_database_win.cc(428)] unexpected header
+[1227/172321.632:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0131/150951.142:ERROR:settings.cc(320)] Settings magic is not 1129342067
+[0213/165247.944:ERROR:settings.cc(320)] Settings magic is not 1129342067
+[0309/153140.374:ERROR:http_transport_win.cc(276)] WinHttpSendRequest: 操作成功完成。 (0x0)
+[0309/174730.463:ERROR:http_transport_win.cc(276)] WinHttpSendRequest: 操作成功完成。 (0x0)
+[0310/085008.329:ERROR:settings.cc(320)] Settings magic is not 1129342067
+[0310/111955.673:ERROR:http_transport_win.cc(276)] WinHttpSendRequest: 操作成功完成。 (0x0)
